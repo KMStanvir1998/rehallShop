@@ -1,0 +1,82 @@
+
+
+
+@font-face {
+  font-family: Ovo;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/ovo/ovo_n4.d4662dd1e5e1c74c64a3a15f50c51f82bd9ade07.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=61bf0a0aca8c77d3eb00da75a6f66917c46ca8dd14ef6aaf745ad6217109018a") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/ovo/ovo_n4.9f9fd71531ae16cc1b491b752b0b48dae8352342.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=ef524fc2270344ad1e0e47174114fe43b07f1d058f3b722048ee26d653589b1b") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=8fdfedfa4882367229171607d61f5e11361964e8e4ffc618d9b026f041667d2b") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=869022996ce06cc6d15b692d52518ba24902bc8a01e6a3c503fb7ad3dec7905d") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=c1a9c78ce781e50966a89e8ebf20380a28b389a5e68add9e1eacbe54a4a3e27d") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=eace62f3b505f8db6f4f48436778a011ce1cbf6392a49b83c50fd64d575ca3f6") format("woff");
+}
+
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n6.08f6a09127d450aa39c74986de08fd8fa84e6a11.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=c79f49deeb1439cf20e18181b1e424221f796b4d60d89e928a0b09513e836161") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n6.bd2f76897d6f40c767db7c40226916ec7b6ffc65.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=122348ee92f437f67c97627ff5ff21b2efc5dc1fea07371697dfa9c5a36cfef5") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=c1a9c78ce781e50966a89e8ebf20380a28b389a5e68add9e1eacbe54a4a3e27d") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=eace62f3b505f8db6f4f48436778a011ce1cbf6392a49b83c50fd64d575ca3f6") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_i4.f1583d9f457b68e44fbda187a48b4096d547d7f4.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=cd51806927bb02b35749ed241d02f6aa1f5a6fbfb432ff0f657bb08cbe79551e") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_i4.67fb53a3e0351125941146246183577ae8d8bf23.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=eafd1cd1e6c70b2f782b9a4cfb514764153f8af69ff7d1dd84a2643fe910a5e1") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_i5.2d1a6d537e5b485482d6bcca34a56cc10d441a55.woff2?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=f172322b7f72326602e53a77875b1a750cb42bbab1d86ffecac8046ec4886809") format("woff2"),
+       url("//rehallshop.myshopify.com/cdn/fonts/avenir_next/avenirnext_i5.fcfa37c68ca483c41031623bfae4701d99bb4b95.woff?h1=cmVoYWxsc2hvcC5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=6c48251708a481f00ed659c78512c41edde6bd3a772c709b58faf4a1f5cc0911") format("woff");
+}
+
+
