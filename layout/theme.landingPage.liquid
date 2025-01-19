@@ -233,20 +233,19 @@
   
     <a class="in-page-link visually-hidden skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
   
-    {% sections 'group-header' %}
-    {% sections 'group-overlay' %}
+    
   
     <main class="main-content" id="MainContent">
       {{ content_for_layout }}
     </main>
   
-    {% sections 'group-footer' %}
+    
   
     <div class="search--popdown">
       {% render 'search-predictive', version: 'search-popdown' %}
     </div>
   
-    {% render 'template-swatch' %}
+    
   
     <div data-modal-container></div>
   
